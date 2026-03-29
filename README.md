@@ -2,7 +2,8 @@
 
 &nbsp;
 -  21, student, self-taught artist/animator + self-taught coder I guess-
--  This is where save any coding projects I've made ( That I think are good enought at least )
+-  I code with mainly Notepad++, sometimes visual studio on Windows 11. 
+-  This is where save any coding projects I've made. ( That I think are good enought at least )
 -  I make free cursors at [MouseMouseCursors](https://mousemousecursors.neocities.org/) hosted on Neocities.
 - My art [portfolio](https://candyminiportfolio.carrd.co/)
 <table>
